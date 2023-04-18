@@ -9,7 +9,7 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anpopo&theme=gruvbox&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=anpopo&theme=gruvbox&column=6&margin-w=10&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=anpopo&theme=gruvbox&column=6&margin-w=10&rank=-C,-B)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 ## Skill Set
 
