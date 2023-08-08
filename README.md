@@ -1,11 +1,12 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=Anpopo's%20Repository%20🤔&animation=twinkling&height=180&color=timeGradient&reversal=true)  
 
-### 안세형입니다. 👋
+### Hi! This is Sehyeong An based in Seoul, South Korea. 👋
 
-**소프트웨어 엔지니어**를 꿈꾸는 안세형입니다.
+I am Sehyeong An who wants to become a **software engineer** who can solve problems in an engineering way.
 <br>
-꾸준한 업데이트를 하면서 안정적이고 발전해나가는 소프트웨어처럼 제 자신을 꾸준히 업데이트 하고 싶습니다.
+Software that develops stably through steady updates is like me.
+Developing myself is my main goal and happiness in my life.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anpopo&theme=gruvbox&show_icons=true&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
