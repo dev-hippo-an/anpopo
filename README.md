@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&text=@dev_hippo_an's%20Repository%20🤔&animation=twinkling&height=180&color=timeGradient&reversal=true)  
+![header](https://capsule-render.vercel.app/api?type=waving&text=@dev_hippo_an's%20Repo%20🤔&animation=twinkling&height=180&color=timeGradient&reversal=true)  
 
 ### Hi! This is Sehyeong An based in Seoul, South Korea. 👋
 
